@@ -1,6 +1,11 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "url": "https://github.com/TIGERHAK/Ts-Studio/releases/latest",
-  "notes_ar": "- أصوات ومقدمة (Intro) عند الفتح\n- زر الألعاب المكررة\n- المسح بيتجاهل اللانشرز والمنصات\n- وضع الأداء (Boost) أثناء اللعب\n- سكرول أخف",
-  "notes_en": "- Sounds and an opening intro\n- Duplicate games button\n- Scan ignores launchers/platforms\n- Performance mode (Boost) while playing\n- Smoother scrolling"
+  "notes_ar": "- فك ضغط بتصميم جديد (ZIP / RAR / 7z) مع فحص المساحة وتحذيرات واضحة\n- نافذة مراقبة الجهاز أثناء اللعب (المعالج / الكارت / الرام)\n- وضع الأداء Boost بفترة راحة، وإصلاح خطة الطاقة\n- المنصات والمحاكيات: ربط المحاكي أو فتح موقعه الرسمي، وتشغيل كل لعبة بالطريقة المناسبة\n- مسح أذكى: ألوان مختلفة للألعاب وغير المؤكد، ودعم ISO / CHD / APK\n- بيانات اللعبة (وصف وسنة ومطوّر) ومقارنة جهازك بمتطلبات التشغيل\n- تذكير الراحة وتحذير الحرارة، وخطوط جديدة، ووضع خفيف للأجهزة الضعيفة\n- تحديثات موقّعة رقميًا وفحص سلامة الملفات",
+  "notes_en": "- New extraction window (ZIP / RAR / 7z) with disk-space check and clear warnings\n- System monitor window while playing (CPU / GPU / RAM)\n- Boost with a rest period, and a fix for the power plan switch\n- Platforms & emulators: link an emulator or open its official site; each game launches the right way\n- Smarter scan: different colours for games vs unsure items, ISO / CHD / APK support\n- Game data (description, year, developer) and a PC-vs-requirements check\n- Rest reminder and heat warning, new fonts, and a Light mode for weak PCs\n- Digitally signed updates and file integrity check",
+  "setup_url": "https://github.com/TIGERHAK/Ts-Studio/releases/download/1.3.0/TSStudio-Setup-v1.3.0.exe",
+  "setup_sha256": "7943ec975dfe954e0d1a8fe9e79eb7e2b6d8170c8d5427385e5b22281481fcad",
+  "exe_sha256": "8b94307e9a4546017fa8f86d790b47e93cf8187de754f43b3867809a92cd6d51",
+  "setup_sig": "100eb707c934df2ab9b2dd3a0f9e1ccf0ff6b4ee29a303c411b84f604993f1b53be24e1972588e6299e94c11d76c76883b151807182b1a88b4b310dc06c9e50c"
 }
+
